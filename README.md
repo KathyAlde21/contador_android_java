@@ -22,9 +22,8 @@
 ├── 📁 java (generated)
 ├── 📁 res
 │   ├── 📁 drawable
-│   │   │    ├── 🖼️ hello_world_cellphone.png
-│   │   │    ├── 🖼️ image_project.jpg
-│   │   │    ├── 🖼️ world.jpg
+│   │   │    ├── 🖼️ proyecto_contador_1.jpg
+│   │   │    ├── 🖼️ proyecto_contador_2.jpg
 │   │   │    ├── 🟧 ic_launcher_background.xml
 │   │   │    └── 🟧 ic_launcher_foreground.xml
 │   ├── 📁 layout
